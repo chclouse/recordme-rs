@@ -1,0 +1,8 @@
+[package]
+name = "recordme-rs"
+version = "0.1.0"
+authors = ["Christopher Clouse <christopherhclouse@gmail.com>"]
+
+[dependencies]
+discord = "0.8.0"
+rust-ini = "0.10.3"
