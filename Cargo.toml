@@ -4,5 +4,5 @@ version = "0.1.0"
 authors = ["Christopher Clouse <christopherhclouse@gmail.com>"]
 
 [dependencies]
-discord = "0.8.0"
-rust-ini = "0.10.3"
+serenity = "0.5.12"
+rust-ini = "0.13.0"
